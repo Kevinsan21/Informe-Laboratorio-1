@@ -9,7 +9,7 @@
 
 # 1.OBJETIVOS
 
-.Estudiar y Analizar las leyes de Kirchhoff para poder comprender como se reparte la intencidad como 
+.Estudiar y Analizar las leyes de Kirchhoff para poder comprender como se reparte la intencidad y 
 el voltaje en los circuitos electricos.
 
 .Conocer el margen de error que existe entre las medidas teoricas y las medidas practicas por medio 
@@ -41,5 +41,7 @@ de la formula de calculo de errores.
 
 # 6.CONCLUSIONES 
 
-.Se comprendio de mejor manera  las leyes de Kirchhoff de voltajes y corrientes  para la aplicacion de  manera teorica y practica, tambien se pudo comprobar que el margen de error entre la parte teorica  y experimental es un porcentaje menor al 1% gracias al simulador y sus calculos casi exactos
+.Se comprendio de mejor manera como las leyes de Kirchhoff nos permiten analizar de una mejor para no cometer errores al 
+momento de medir intencidades como voltaje ya que cuando la intencidad entra por nodo esta se reparte haciendo que nos 
+demos cuenta que la intencidad como la enegia no va a ser la misma en cada punto que queramos realizar la medicion. 
 

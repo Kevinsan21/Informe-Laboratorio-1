@@ -26,6 +26,10 @@
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/Circuitos2_5.jpg)
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/VR1_1.jpg)
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/Circuitos2_7.jpg)
+![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/21.png)
+![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/22.png)
+![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/23.png)
+![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/24.png)
 
 # 4.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/1234_1.jpg)

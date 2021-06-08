@@ -41,7 +41,6 @@ de la formula de calculo de errores.
 
 # 6.CONCLUSIONES 
 
-.Se comprendio de mejor manera como las leyes de Kirchhoff nos permiten analizar de una mejor para no cometer errores al 
-momento de medir intencidades como voltaje ya que cuando la intencidad entra por nodo esta se reparte haciendo que nos 
-demos cuenta que la intencidad como la enegia no va a ser la misma en cada punto que queramos realizar la medicion.ola 
-
+.Se comprendio de mejor manera las leyes de Kirchhoff para no cometer errores al momento de medir intensidades como 
+voltaje ya que cuando la intensidad entra por el nodo esta se reparte haciendo que nos demos cuenta que tanto 
+la intensidad como la enegia no van a ser laa mismas en cada punto que queramos realizar la medicion del circuito.

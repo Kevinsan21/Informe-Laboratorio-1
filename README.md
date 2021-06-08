@@ -43,5 +43,5 @@ de la formula de calculo de errores.
 
 .Se comprendio de mejor manera como las leyes de Kirchhoff nos permiten analizar de una mejor para no cometer errores al 
 momento de medir intencidades como voltaje ya que cuando la intencidad entra por nodo esta se reparte haciendo que nos 
-demos cuenta que la intencidad como la enegia no va a ser la misma en cada punto que queramos realizar la medicion. 
+demos cuenta que la intencidad como la enegia no va a ser la misma en cada punto que queramos realizar la medicion.ola 
 

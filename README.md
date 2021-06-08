@@ -38,7 +38,7 @@ de la formula de calculo de errores.
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/1234_1.jpg)
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/1234_2.jpg)
 # 5.VIDEO
-
+https://www.youtube.com/watch?v=Cgj7vmAwFLI
 # 6.CONCLUSIONES 
 
 .Se comprendio de mejor manera las leyes de Kirchhoff para no cometer errores al momento de medir intensidades como 

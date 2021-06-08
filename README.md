@@ -43,4 +43,4 @@ de la formula de calculo de errores.
 
 .Se comprendio de mejor manera las leyes de Kirchhoff para no cometer errores al momento de medir intensidades como 
 voltaje ya que cuando la intensidad entra por el nodo esta se reparte haciendo que nos demos cuenta que tanto 
-la intensidad como la enegia no van a ser laa mismas en cada punto que queramos realizar la medicion del circuito.
+la intensidad como la enegia no van a ser las mismas en cada punto que queramos realizar la medicion del circuito.

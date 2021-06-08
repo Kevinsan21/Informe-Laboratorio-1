@@ -28,7 +28,8 @@
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/Circuitos2_7.jpg)
 
 # 4.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
-
+![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/1234_1.jpg)
+![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/1234_2.jpg)
 # 5.VIDEO
 
 # 6.CONCLUSIONES 

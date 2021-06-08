@@ -33,5 +33,4 @@
 # 5.VIDEO
 
 # 6.CONCLUSIONES 
-
-# 7.BIBLIOGRAFIA
+.Se comrendio de mejor manera  las leyes de Kirchhoff de voltajes y corrientes  para la aplicacion de  manera teorica y practica, tambien se pudo comprobar que el majen de error entren la parte teorica  y experimental es un porcentaje menor al 1% gracias al simulador y sus calculos casi exactos.

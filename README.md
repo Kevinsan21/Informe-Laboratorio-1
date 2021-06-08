@@ -9,9 +9,11 @@
 
 # 1.OBJETIVOS
 
-.Comprender las leyes de Kirchhoff para poder analizar en los circuitos eléctricos.
+.Estudiar y Analizar las leyes de Kirchhoff para poder comprender como se reparte la intencidad como 
+el voltaje en los circuitos electricos.
 
-.Analizar de manera  teorica y practica  las leyes de Kirchhoff de corriente y de voltajes
+.Conocer el margen de error que existe entre las medidas teoricas y las medidas practicas por medio 
+de la formula de calculo de errores.
 
 # 2.MARCO TEORICO
 
@@ -38,5 +40,6 @@
 # 5.VIDEO
 
 # 6.CONCLUSIONES 
-.Se comprendio de mejor manera  las leyes de Kirchhoff de voltajes y corrientes  para la aplicacion de  manera teorica y practica, tambien se pudo comprobar que el margen de error entren la parte teorica  y experimental es un porcentaje menor al 1% gracias al simulador y sus calculos casi exactos
+
+.Se comprendio de mejor manera  las leyes de Kirchhoff de voltajes y corrientes  para la aplicacion de  manera teorica y practica, tambien se pudo comprobar que el margen de error entre la parte teorica  y experimental es un porcentaje menor al 1% gracias al simulador y sus calculos casi exactos
 

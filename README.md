@@ -11,8 +11,7 @@
 
 .Comprender las leyes de Kirchhoff para poder analizar en los circuitos eléctricos.
 
-.
-
+.Analizar de manera  teorica y practica  las leyes de Kirchhoff de corriente y de voltajes
 # 2.MARCO TEORICO
 
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/2.png)

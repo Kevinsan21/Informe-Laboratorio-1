@@ -12,6 +12,7 @@
 .Comprender las leyes de Kirchhoff para poder analizar en los circuitos eléctricos.
 
 .Analizar de manera  teorica y practica  las leyes de Kirchhoff de corriente y de voltajes
+
 # 2.MARCO TEORICO
 
 ![](https://github.com/Kevinsan21/Imagenes-Laboratorio-1-/blob/main/2.png)
@@ -37,4 +38,5 @@
 # 5.VIDEO
 
 # 6.CONCLUSIONES 
-.Se comrendio de mejor manera  las leyes de Kirchhoff de voltajes y corrientes  para la aplicacion de  manera teorica y practica, tambien se pudo comprobar que el majen de error entren la parte teorica  y experimental es un porcentaje menor al 1% gracias al simulador y sus calculos casi exactos
+.Se comprendio de mejor manera  las leyes de Kirchhoff de voltajes y corrientes  para la aplicacion de  manera teorica y practica, tambien se pudo comprobar que el margen de error entren la parte teorica  y experimental es un porcentaje menor al 1% gracias al simulador y sus calculos casi exactos
+
